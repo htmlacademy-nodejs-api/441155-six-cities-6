@@ -1,7 +1,7 @@
 # Личный проект «Шесть городов»
 
-* Студент: [Татьяна](https://up.htmlacademy.ru/nodejs-api/6/user/441155).
-* Наставник: `Неизвестно`.
+- Студент: [Татьяна](https://up.htmlacademy.ru/nodejs-api/6/user/441155).
+- Наставник: [Rail Sakhaviev] (https://htmlacademy.ru/profile/id1331891).
 
 ---
 
